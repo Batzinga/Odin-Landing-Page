@@ -4,13 +4,13 @@ body {
 
 #sectionone {
     background-color: #7095B7;
-    padding: 50px;
+    padding: 5px 50px 50px;
     display: flex;
     flex-direction: column;
 }
 
 .logo {
-    height:75px;
+    height:60px;
     width: auto;
     padding: 10px;
 }
