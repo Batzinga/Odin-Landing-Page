@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+}
+
+.sectionone {
+    background-color: #7095B7;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    height:75px;
+    width: auto;
+    padding: 10px;
+}
+
+.mainimage {
+    max-width: 500px;
+    width: 100%;
+}
+.topheader {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.frontpage {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 40px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 1, 0.37); 
+    border-radius: 25px;
+    align-content: center;
+}
+
+.synopsis {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: andale mono;
+    flex: 1;
+    flex-basis: 300px;
+    align-self: stretch;
+    overflow: scroll;
+}
+
+button {
+    width: 100px;
+    color: white;
+    background-color: #AD3652;
+    font-family: lato;
+}
+
+.nav {
+    display: flex;
+    padding-right: 20px;
+    gap: 20px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: andale mono;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+.shinji {
+    color: #6F4D9A;
+}
+
+.rei {
+    color: blue;
+}
+
+.asuka {
+    color: #AD3652;
+}
+
+.imgcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+}
