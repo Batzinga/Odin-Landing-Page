@@ -1,3 +1,8 @@
+@font-face {
+    font-family: andale mono;
+    src: url(https://fonts.cdnfonts.com/css/andale-mono);
+  }
+
 body {
     min-height: 100vh;
     display: flex;
